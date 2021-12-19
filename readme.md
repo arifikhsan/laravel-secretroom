@@ -10,6 +10,13 @@
 ## Usage
 Write a few lines about the usage of this package.
 
+## Command
+Code generator
+
+``` bash
+composer exec canvas
+```
+
 ## Testing
 Run the tests with:
 
